@@ -1,5 +1,5 @@
-# HTML, JavaScript, Bootstrap, CSS, PHP, React
-> “The holy passion of friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.”
+# HTML, JavaScript, CSS, Bootstrap, PHP, NodeJS, and Discord.py
+> “Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.”
 > <br>
 > <Br>
 >  -- Mark Twain
